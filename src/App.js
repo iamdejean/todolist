@@ -27,7 +27,7 @@ class App extends Component {
  render(){
   return (
     <div className="App">    
-    <Todo />
+    <Todo todo= {this.state.todo}/>
     </div>
   );
  }
