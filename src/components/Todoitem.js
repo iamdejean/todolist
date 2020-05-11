@@ -7,3 +7,5 @@ export class Todoitem extends Component {
   </div>
  }
 }
+
+export default Todoitem;
